@@ -1,4 +1,5 @@
 # BUILDMAZING-Desktop-App
+
 Construction Management System
 Overview
 Buildmazing is a desktop application developed to streamline the management processes of Jayalal Constructions. It addresses the inefficiencies and limitations of the manual record-keeping system, enabling users to manage employees, clients, inventory, suppliers, reports, projects, and finances efficiently.
